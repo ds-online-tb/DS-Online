@@ -1,0 +1,44 @@
+[
+    {
+        "software": "ImagenPro",
+        "fecha_venta": "2023-01-15",
+        "pais": "España",
+        "precio": 99.99,
+        "cantidad": 10,
+        "adicionales": {
+            "requisitos": "Necesita i7",
+            "limitacion": "No admite matrioskas"
+        }
+    },
+    {
+        "software": "FotoFácil",
+        "fecha_venta": "2023-01-17",
+        "pais": "México",
+        "precio": 59.99,
+        "cantidad": 5
+    },
+    {
+            "software": "PixelMaster",
+            "fecha_venta": "2023-02-20",
+            "pais": "Francia",
+            "precio": 120.00,
+            "cantidad": 8,
+            "puntualizaciones": {
+                "no admite": "imgánes en 4K tipo MOV"
+            }
+    },
+    {
+            "software": "EditaImagen",
+            "fecha_venta": "2023-02-25",
+            "pais": "Japón",
+            "precio": 110.00,
+            "cantidad": 6
+    },
+    {
+            "software": "RenderMax",
+            "fecha_venta": "2023-03-01",
+            "pais": "Canadá",
+            "precio": 150.00,
+            "cantidad": 4
+     }
+]

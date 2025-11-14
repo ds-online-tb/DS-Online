@@ -1,0 +1,32 @@
+<GreatWomen>
+    <Woman id = "01">
+        <Name>Marie Curie</Name>
+        <Field>Physics, Chemistry</Field>
+        <Nationality>Polish</Nationality>
+        <Contribution>Research on radioactivity</Contribution>
+    </Woman>
+    <Woman id = "02">
+        <Name>Rosa Parks</Name>
+        <Field>Civil Rights Movement</Field>
+        <Nationality>American</Nationality>
+        <Contribution>Montgomery bus boycott</Contribution>
+    </Woman>
+    <Woman id = "03">
+        <Name>Ada Lovelace</Name>
+        <Field>Mathematics, Computing</Field>
+        <Nationality>British</Nationality>
+        <Contribution>First computer program</Contribution>
+    </Woman>
+    <Woman id = "04">
+        <Name>Malala Yousafzai</Name>
+        <Field>Education Activism</Field>
+        <Nationality>Pakistani</Nationality>
+        <Contribution>Advocacy for girls' education</Contribution>
+    </Woman>
+    <Woman id = "05">
+        <Name>Mum</Name>
+        <Field>Integral Loving Education</Field>
+        <Nationality>Universal</Nationality>
+        <Contribution>You</Contribution>
+    </Woman>
+</GreatWomen>
