@@ -1,0 +1,18 @@
+https://docs.aws.amazon.com/es_es/cost-management/latest/userguide/budget-templates.html
+
+	-> Budgets
+		-> Crear Presupuesto
+			-> Plantilla Simplificada
+				-> Presupuesto de Gasto Cero
+					-> myZeroSpentBudget
+				
+Destinatarios de correo electrónico
+
+Vemos que la alerta se ha creado
+
+
+***
+
+Administración de Facturas y Costos
+
+Cargos por Servicios

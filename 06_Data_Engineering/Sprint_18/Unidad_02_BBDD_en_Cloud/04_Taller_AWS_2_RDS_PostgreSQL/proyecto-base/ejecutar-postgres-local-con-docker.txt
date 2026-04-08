@@ -1,0 +1,5 @@
+docker run --name postgres-local \
+  -e POSTGRES_PASSWORD=password_local \
+  -e POSTGRES_DB=advertising_db \
+  -p 5432:5432 \
+  -d postgres
