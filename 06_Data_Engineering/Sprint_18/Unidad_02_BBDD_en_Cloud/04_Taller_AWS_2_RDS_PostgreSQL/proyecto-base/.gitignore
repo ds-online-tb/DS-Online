@@ -1,4 +1,5 @@
 .ejemplo.aws.env
+.ejemplo.local.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
