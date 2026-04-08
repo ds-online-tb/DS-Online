@@ -1,0 +1,8 @@
+flask
+flask-sqlalchemy
+psycopg2-binary
+python-dotenv
+gunicorn
+pandas
+scikit-learn
+numpy
